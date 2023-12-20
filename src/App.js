@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hi there
+          thuan day
         </a>
       </header>
     </div>
